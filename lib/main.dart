@@ -11,7 +11,8 @@ void main(){
         backgroundColor: Colors.lightBlue[300],
         body: const Center(
           child: Image(
-            image: NetworkImage('https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png'),
+            //image: NetworkImage('https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png'),
+            image: AssetImage('images/flutter-3.png'),
             ),
         )
       ),
