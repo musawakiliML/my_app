@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Learning Flutter for Mobile development
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
